@@ -1,5 +1,6 @@
 # RelBench for RDL
 
+In this section, I train a Graph Neural Network (GNN) based model for a tabular prediction task using relbench and evaluate it with key metrics.
 
 ## References
 
