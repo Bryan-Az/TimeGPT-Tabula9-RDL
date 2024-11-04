@@ -1,5 +1,5 @@
 # TimeGPT-Tabula9-RDL
-In this project, I showcase TimeGPT for timeseries forecasting, Tabula9 and RelBench for Relational Deep Learning (RDL), mock data generation and inference.
+In this project, I showcase TimeGPT for timeseries forecasting, Tabula9 and RelBench for Relational Deep Learning (RDL), mock data generation and inference via colab notebook examples and video demonstrations.
 
 ## TimeGPT for TS Forecasting
 

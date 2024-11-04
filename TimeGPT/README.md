@@ -1,5 +1,8 @@
 # TimeGPT for Timeseries (TS) Forecasting
 
+In this section I use TimeGPT to predict or forecast using example multi-variate timeseries data using their 'long horizon' capabilities on energy and bitcoin related datasets (provided by TimeGPT's provider Nixtla). I also experiment with fine-tuning and anomaly detection using TimeGPT on an extraneous dataset.
+
+
 ## References
 
 1. [Example Notebook - Multivariate TS Forecasting](https://docs.nixtla.io/docs/tutorials-multiple_series_forecasting)
