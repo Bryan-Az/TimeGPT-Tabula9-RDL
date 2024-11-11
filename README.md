@@ -1,6 +1,10 @@
 # TimeGPT-Tabula9-RDL
 In this project, I showcase TimeGPT for timeseries forecasting, Tabula9 and RelBench for Relational Deep Learning (RDL), mock data generation and inference via colab notebook examples and video demonstrations.
 
+## Watch the presentation video!
+
+[video Presentation Link](https://youtu.be/44lqtsZZgFk)
+
 ## TimeGPT for TS Forecasting
 
 TimeGPT is a 'foundation' model and library that can provide access to Nixtla's pre-trained TimeGPT model API. It is designed for quick (very little training) or 'zero shot' deep time series forecasting. It leverages machine learning techniques to provide accurate and reliable predictions for various time-dependent data. 
